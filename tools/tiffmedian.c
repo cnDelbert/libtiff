@@ -1,4 +1,4 @@
-/* $Header: /cvs/maptools/cvsroot/libtiff/tools/tiffmedian.c,v 1.1 1999-07-27 21:50:28 mike Exp $ */
+/* $Header: /cvs/maptools/cvsroot/libtiff/tools/tiffmedian.c,v 1.1.1.1 1999-07-27 21:50:28 mike Exp $ */
 
 /*
  * Apply median cut on an image.

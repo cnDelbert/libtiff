@@ -1,4 +1,4 @@
-/* $Header: /cvs/maptools/cvsroot/libtiff/Attic/tiff.h,v 1.1 1999-07-27 21:50:26 mike Exp $ */
+/* $Header: /cvs/maptools/cvsroot/libtiff/Attic/tiff.h,v 1.1.1.1 1999-07-27 21:50:26 mike Exp $ */
 
 /*
  * Copyright (c) 1988-1997 Sam Leffler

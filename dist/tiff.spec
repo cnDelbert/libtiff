@@ -1,4 +1,4 @@
-#	$Header: /cvs/maptools/cvsroot/libtiff/dist/Attic/tiff.spec,v 1.1 1999-07-27 21:50:27 mike Exp $
+#	$Header: /cvs/maptools/cvsroot/libtiff/dist/Attic/tiff.spec,v 1.1.1.1 1999-07-27 21:50:27 mike Exp $
 #
 # TIFF Software
 #

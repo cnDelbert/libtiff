@@ -1,5 +1,5 @@
 #! smake
-#	$Header: /cvs/maptools/cvsroot/libtiff/man/Attic/Makefile,v 1.1 1999-07-27 21:50:27 mike Exp $
+#	$Header: /cvs/maptools/cvsroot/libtiff/man/Attic/Makefile,v 1.1.1.1 1999-07-27 21:50:27 mike Exp $
 #
 # Warning, this file was automatically created by the TIFF configure script
 #

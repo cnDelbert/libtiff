@@ -1,4 +1,4 @@
-/* $Header: /cvs/maptools/cvsroot/libtiff/tools/fax2tiff.c,v 1.1 1999-07-27 21:50:28 mike Exp $ */
+/* $Header: /cvs/maptools/cvsroot/libtiff/tools/fax2tiff.c,v 1.1.1.1 1999-07-27 21:50:28 mike Exp $ */
 
 /*
  * Copyright (c) 1990-1997 Sam Leffler

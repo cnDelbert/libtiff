@@ -1,5 +1,5 @@
 #! /bin/sh
-#	$Header: /cvs/maptools/cvsroot/libtiff/port/Attic/install.sh,v 1.1 1999-07-27 21:50:28 mike Exp $
+#	$Header: /cvs/maptools/cvsroot/libtiff/port/Attic/install.sh,v 1.1.1.1 1999-07-27 21:50:28 mike Exp $
 #
 # Warning, this file was automatically created by the TIFF configure script
 #
